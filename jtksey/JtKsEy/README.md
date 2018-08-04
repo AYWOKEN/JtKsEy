@@ -1,2 +1,0 @@
-# JtKsEy
-Discord.js
