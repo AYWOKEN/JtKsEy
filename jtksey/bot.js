@@ -10,7 +10,6 @@ const LoLStats = require('./commands/lolstats.js');
 const OverWatch = require('./commands/overwatch.js');
 const Osu = require('./commands/osu.js');
 const Twitch = require('./commands/twitch.js');
-bot.mutes = require('./mutes.json')
 
 
 function play(connection, message) {
